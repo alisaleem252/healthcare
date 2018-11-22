@@ -1,5 +1,5 @@
 {
-	"Anesthesia Tech Skills checklist": {
+	"Anesthesia Tech Skills Checklist": {
 		"General": "no",
 		"Hospital/Office": "",
 		"MDA/Supervised": "",
@@ -62,7 +62,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"COTA (Certified Occupational Therapy Assistant Skills Checklis": {
+	"COTA (Certified Occupational Therapy Assistant Skills Checklist)": {
 		"General": "no",
 		"Discharge Planning": "",
 		"Home Assessment": "",
@@ -225,7 +225,7 @@
 		"Splinting": "",
 		"Wheelchair": ""
 	},
-	"EEG Tech Skills Checklis": {
+	"EEG Tech Skills Checklist": {
 		"General": "no",
 		"Perform the Following": "no",
 		"10-20 Electrode Placement": "",
@@ -274,7 +274,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Medical Technologist/Clinical Lab Scientis": {
+	"Medical Technologist/Clinical Lab Scientist": {
 		"Immobilizaiton": "no",
 		"Splinting": "no",
 		"Manual Stabilization": "",
@@ -362,7 +362,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Endoscopy Tech Skills Checklis": {
+	"Endoscopy Tech Skills Checklist": {
 		"General": "no",
 		"Universal Precautions": "",
 		"Documentation": "",
@@ -452,7 +452,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Mammography Tech Skills Checklis": {
+	"Mammography Tech Skills Checklist": {
 		"Screening Mammogram": "",
 		"Film Screen": "",
 		"Localizations": "",
@@ -518,7 +518,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Medical Assistant Skills Checklis": {
+	"Medical Assistant Skills Checklist": {
 		"General": "no",
 		"Admit Patients": "",
 		"Discharge Patients": "",
@@ -600,7 +600,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Occupational Therapist Skills Checklis": {
+	"Occupational Therapist Skills Checklist": {
 		"Psychiatric": "no",
 		"Acute Disorders": "",
 		"Chronic Disorders": "",
@@ -684,7 +684,7 @@
 		"Middle Adults (39-64 Years)": "",
 		"Older Adults (64+ Years)": ""
 	},
-	"Pharmacis": {
+	"Pharmacist": {
 		"Pharmacy Settings": "no",
 		"Ambulatory Care": "",
 		"Academia": "",
